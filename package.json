@@ -9,6 +9,7 @@
     "express": "*",
     "mysql": "*",
     "dotenv": "*",
-    "socket.io": "*"
+    "socket.io": "*",
+    "express-ws": "*"
   }
 }
