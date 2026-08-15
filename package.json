@@ -11,6 +11,7 @@
     "dotenv": "*",
     "socket.io": "*",
     "express-ws": "*",
+    "cors": "*",
     "bcrypt": "npm:bcryptjs@^2.4.3",
     "md5": "*"
   }
