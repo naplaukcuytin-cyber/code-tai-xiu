@@ -10,6 +10,9 @@
     "mysql": "*",
     "dotenv": "*",
     "socket.io": "*",
-    "express-ws": "*"
+    "express-ws": "*",
+    "bcrypt": "*",
+    "bcryptjs": "*",
+    "md5": "*"
   }
 }
